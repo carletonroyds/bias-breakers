@@ -1,0 +1,16 @@
+{
+  "name": "BIAS AWARENESS 2",
+  "revisionLabel": "Implement responsive layout with dynamic card centering",
+  "description": "",
+  "mode": "Universal",
+  "exportDate": "2026-06-09T21:39:32.933Z",
+  "rosebudBuiltInSplash": {
+    "present": true,
+    "version": 1
+  },
+  "assetCount": 42,
+  "assetTypes": [
+    "image",
+    "audio"
+  ]
+}
